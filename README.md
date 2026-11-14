@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](600x200.jpg)
 Hi there 👋! I’m Hezron, known online as Qahnaxy, I am the founder of @gbunxy and full-stack developer by day 🌄 and a web security enthusiast by night 🌒. I build high-performance, secure, and scalable web systems with precision and intent. My code isn’t written to just work, it’s written to endure, scale, and perform under pressure. I treat architecture like strategy and optimization like art.
 Currently open to contract-based collaborations and select long-term projects that demand technical depth, clean architecture, and measurable impact. And hey, if you want to become friends, a Hi! is a dm away.<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=aws,nginx,mysql,php,js,flutter,figma,ae,ps,obsidian,vscode,git,postman,robloxstudio,obsidian)](https://skillicons.dev)
